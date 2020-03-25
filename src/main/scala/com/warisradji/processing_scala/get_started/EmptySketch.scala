@@ -1,4 +1,4 @@
-package com.github.processing_scala.get_started
+package com.warisradji.processing_scala.get_started
 
 import processing.core.PApplet
 
