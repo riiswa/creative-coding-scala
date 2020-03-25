@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="processing_scala [file:/D:/processing_scala/]" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11">
+    <output url="file://$MODULE_DIR$/../../target/scala-2.12/classes" />
+    <output-test url="file://$MODULE_DIR$/../../target/scala-2.12/test-classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/scala" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/scala" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../target/scala-2.12/src_managed/main" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../target/scala-2.12/src_managed/test" isTestSource="true" generated="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="sbt: org.scala-lang:scala-library:2.12.6:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.processing:core:3.3.6:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.jogl:newt-main:2.3.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.jogl:newt:2.3.2:ogl:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.jogl:newt:2.3.2:natives-windows-i586:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.jogl:newt:2.3.2:natives-windows-amd64:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.jogl:newt:2.3.2:natives-solaris-i586:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.jogl:newt:2.3.2:natives-solaris-amd64:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.jogl:newt:2.3.2:natives-macosx-universal:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.jogl:newt:2.3.2:natives-linux-i586:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.jogl:newt:2.3.2:natives-linux-armv6hf:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.jogl:newt:2.3.2:natives-linux-armv6:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.jogl:newt:2.3.2:natives-linux-amd64:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.jogl:newt:2.3.2:natives-android-armv6:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.jogl:newt:2.3.2:natives-android-aarch64:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.jogl:newt:2.3.2:event:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.jogl:newt:2.3.2:driver-x11:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.jogl:newt:2.3.2:driver-win:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.jogl:newt:2.3.2:driver-osx:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.jogl:newt:2.3.2:driver-linux:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.jogl:newt:2.3.2:driver-kd:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.jogl:newt:2.3.2:driver-intelgdl:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.jogl:newt:2.3.2:driver-bcm-vc:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.jogl:newt:2.3.2:driver-bcm-old:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.jogl:newt:2.3.2:driver-android:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.jogl:newt:2.3.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.jogl:nativewindow-main:2.3.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.jogl:nativewindow:2.3.2:os-x11:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.jogl:nativewindow:2.3.2:os-win:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.jogl:nativewindow:2.3.2:os-osx:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.jogl:nativewindow:2.3.2:natives-windows-i586:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.jogl:nativewindow:2.3.2:natives-windows-amd64:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.jogl:nativewindow:2.3.2:natives-solaris-i586:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.jogl:nativewindow:2.3.2:natives-solaris-amd64:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.jogl:nativewindow:2.3.2:natives-macosx-universal:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.jogl:nativewindow:2.3.2:natives-linux-i586:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.jogl:nativewindow:2.3.2:natives-linux-armv6hf:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.jogl:nativewindow:2.3.2:natives-linux-armv6:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.jogl:nativewindow:2.3.2:natives-linux-amd64:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.jogl:nativewindow:2.3.2:natives-android-armv6:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.jogl:nativewindow:2.3.2:natives-android-aarch64:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.jogl:nativewindow:2.3.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.jogl:jogl-all:2.3.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.jogl:jogl:2.3.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.gluegen:gluegen-rt-main:2.3.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.gluegen:gluegen-rt:2.3.2:natives-windows-i586:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.gluegen:gluegen-rt:2.3.2:natives-windows-amd64:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.gluegen:gluegen-rt:2.3.2:natives-solaris-i586:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.gluegen:gluegen-rt:2.3.2:natives-solaris-amd64:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.gluegen:gluegen-rt:2.3.2:natives-macosx-universal:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.gluegen:gluegen-rt:2.3.2:natives-linux-i586:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.gluegen:gluegen-rt:2.3.2:natives-linux-armv6hf:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.gluegen:gluegen-rt:2.3.2:natives-linux-armv6:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.gluegen:gluegen-rt:2.3.2:natives-linux-amd64:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.gluegen:gluegen-rt:2.3.2:natives-android-armv6:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.gluegen:gluegen-rt:2.3.2:natives-android-aarch64:jar" level="project" />
+    <orderEntry type="library" name="sbt: org.jogamp.gluegen:gluegen-rt:2.3.2:jar" level="project" />
+  </component>
+</module>

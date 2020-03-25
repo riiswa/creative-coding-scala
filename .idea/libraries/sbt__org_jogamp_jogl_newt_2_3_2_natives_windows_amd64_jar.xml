@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sbt: org.jogamp.jogl:newt:2.3.2:natives-windows-amd64:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/jogamp/jogl/newt/2.3.2/newt-2.3.2-natives-windows-amd64.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
